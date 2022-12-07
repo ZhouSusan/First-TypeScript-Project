@@ -1,0 +1,3 @@
+C:\Users\szhou\source\repos\First-TS-Proj\First-TS-Proj\obj\Debug\First-TS-Proj.njsproj.AssemblyReference.cache
+C:\Users\szhou\source\repos\First-TS-Proj\First-TS-Proj\obj\Debug\First-TS-Proj.njsproj.CoreCompileInputs.cache
+C:\Users\szhou\source\repos\First-TS-Proj\First-TS-Proj\bin\Microsoft.NodejsTools.WebRole.dll
